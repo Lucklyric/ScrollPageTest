@@ -1,18 +1,18 @@
 //
 //  ViewController.m
-//  ScrolTest
+//  ToolBarTest
 //
-//  Created by Alvin Sun on 2014-11-26.
+//  Created by Alvin Sun on 2014-11-28.
 //  Copyright (c) 2014 Alvin Sun. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "ToolBarController.h"
 
-@interface ViewController ()
+@interface ToolBarController ()
 
 @end
 
-@implementation ViewController
+@implementation ToolBarController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -24,4 +24,14 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)save:(id)sender {
+    self.lable.text = @"Save";
+}
+
+- (IBAction)open:(id)sender {
+    self.lable.text = @"Open";
+}
+- (IBAction)Save:(id)sender {
+    self.lable.text = @"BarSave";
+}
 @end

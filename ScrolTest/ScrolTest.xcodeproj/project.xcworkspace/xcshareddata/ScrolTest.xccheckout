@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FB5BE780-CDCB-43A4-A1C9-DBECFE55E426</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ScrolTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C762541FDECD3377D2041A3C6FE953AE46215003</key>
+		<string>https://github.com/Lucklyric/ScrollPageTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ScrolTest/ScrolTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C762541FDECD3377D2041A3C6FE953AE46215003</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Lucklyric/ScrollPageTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C762541FDECD3377D2041A3C6FE953AE46215003</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C762541FDECD3377D2041A3C6FE953AE46215003</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ScrollPageTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>

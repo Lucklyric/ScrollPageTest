@@ -4,14 +4,44 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>ActivityIndicator.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>ScrolTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>ToolBarTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>A8399D2C1A2818000067DEA5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A8399D441A2818000067DEA5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A8399D561A28558F0067DEA5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A8399D6E1A28558F0067DEA5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>A8EBFB311A2673AF00836604</key>
 		<dict>
 			<key>primary</key>
