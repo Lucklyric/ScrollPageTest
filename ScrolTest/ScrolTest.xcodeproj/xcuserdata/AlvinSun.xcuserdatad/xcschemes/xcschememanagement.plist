@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>RotateScreenTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>ScrolTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -38,6 +43,16 @@
 			<true/>
 		</dict>
 		<key>A8399D6E1A28558F0067DEA5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A869C7AC1A2978BC0096FCD3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A869C7C41A2978BC0096FCD3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
