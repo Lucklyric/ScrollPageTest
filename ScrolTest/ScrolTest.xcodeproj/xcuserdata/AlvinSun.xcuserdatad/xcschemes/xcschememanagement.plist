@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>CollectionViewSample.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>RotateScreenTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -53,6 +58,16 @@
 			<true/>
 		</dict>
 		<key>A869C7C41A2978BC0096FCD3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A869C7D81A29BC940096FCD3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A869C7F01A29BC950096FCD3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
